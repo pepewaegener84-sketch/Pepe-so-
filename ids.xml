@@ -1,0 +1,4 @@
+<resources>
+    <item name="tag_entry" type="id" />
+    <item name="tag_section" type="id" />
+</resources>
